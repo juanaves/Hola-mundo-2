@@ -14,6 +14,10 @@ public class Main {
             System.out.println("i = " + i);
             int j=0;
             j++;
+            System.out.println("lklklklklkkl");
+            System.out.println("lklklklklkkl");
+            System.out.println("lklklklklkkl");System.out.println("lklklklklkkl");
+            System.out.println("lklklklklkkl");
         }
     }
 }
